@@ -1,0 +1,1 @@
+# binario_para_decimal
